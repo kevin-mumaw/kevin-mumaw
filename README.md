@@ -6,7 +6,7 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevin-mumaw/vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)] UNDER CONSTRUCTION()**
 
 
 
