@@ -19,7 +19,7 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
+[x]: https://x.com/MumawKevin
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/kevin-mumaw-10
