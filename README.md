@@ -8,7 +8,9 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 - **[Vulnerability Management Program Implementation](https://github.com/kevin-mumaw/vulnerability-management)**
 - **Programmatic Vulnerability Remediations (PowerShell and BASH) Currently Building**
 
+## 🚨 Threat Hunting and Security Operations
 
+- **Threat Hunting Scenario (Tor Browser Usage) COMING SOON!!**
 
 <hr/>
 
