@@ -17,7 +17,7 @@ This PowerShell script is designed to configure the System event log size to 32,
     Date(s) Tested  : 
     Tested By       : 
     Systems Tested  : 
-    PowerShell Ver. : 
+    PowerShell Ver. : 5.1
 
 .USAGE
     Put any usage instructions here.
