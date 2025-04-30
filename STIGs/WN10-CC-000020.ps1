@@ -1,6 +1,7 @@
 ﻿<#
 .SYNOPSIS
 This PowerShell script is designed to configure IPv6 source routing to the highest protection level, in compliance with the STIG requirement WN10-CC-000020. It checks the registry setting located at HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters. If the DisableIpSourceRouting value does not exist or is not set to 2 (which indicates that source routing is completely disabled), the script creates the necessary registry key (if needed) and updates the value accordingly. This configuration protects against packet spoofing by ensuring that IPv6 source routing is disabled, thereby enhancing the security posture of the system.
+
 .NOTES
     Author          : Kevin Mumaw
     LinkedIn        : linkedin.com/in/kevin-mumaw-10/
@@ -16,7 +17,7 @@ This PowerShell script is designed to configure IPv6 source routing to the highe
     Date(s) Tested  : 
     Tested By       : 
     Systems Tested  : 
-    PowerShell Ver. : 
+    PowerShell Ver. : 5.1 Build 26100 Revision 3912
 
 .USAGE
     Put any usage instructions here.
