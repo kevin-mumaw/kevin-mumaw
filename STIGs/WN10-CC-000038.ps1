@@ -5,8 +5,8 @@ The PowerShell script modifies the registry to ensure that WDigest Authenticatio
     Author: Kevin Mumaw
     LinkedIn: linkedin.com/in/kevin-mumaw-10/
     GitHub: github.com/kevin-mumaw
-    Date Created: 2025-30-05
-    Last Modified: 2025-29-04
+    Date Created: 2025-01-05
+    Last Modified: 2025-01-05
     Version: 1.0
     CVEs: N/A
     Plugin IDs: N/A
