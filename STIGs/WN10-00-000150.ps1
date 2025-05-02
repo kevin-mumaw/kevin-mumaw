@@ -11,7 +11,7 @@ This PowerShell script is designed to enable Structured Exception Handling Overw
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000150
+    STIG-ID         : WN10-00-000150
 
 .TESTED ON
     Date(s) Tested  : 
