@@ -20,8 +20,9 @@ The PowerShell script modifies the registry to ensure that WDigest Authenticatio
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
-    
+    PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000038).ps1 
+ #>   
+
 # Define the registry path and value
 $registryPath = "HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest"
 $valueName = "UseLogonCredential"
