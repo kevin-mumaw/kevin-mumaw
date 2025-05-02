@@ -20,7 +20,8 @@ The PowerShell script modifies the registry to ensure that ECC curves with longe
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000060).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000052).ps1 
+
 #>
 # Define the registry path and value
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Cryptography\Configuration\SSL\00010002"
