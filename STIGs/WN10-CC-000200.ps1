@@ -1,12 +1,13 @@
 ﻿<#
 .SYNOPSIS
 This PowerShell script modifies the registry to ensure that administrator accounts are not enumerated when elevating privileges. This is achieved by setting the EnumerateAdministrators value to 0 in the specified registry path. This setting enhances security by requiring users to explicitly enter a username and password to elevate a running application, thereby reducing the risk of unauthorized access.
+
 .NOTES
     Author: Kevin Mumaw
     LinkedIn: linkedin.com/in/kevin-mumaw-10/
     GitHub: github.com/kevin-mumaw
-    Date Created: 2025-01-05
-    Last Modified: 2025-01-05
+    Date Created: 2025-05-01
+    Last Modified: 2025-05-01
     Version: 1.0
     CVEs: N/A
     Plugin IDs: N/A
@@ -20,8 +21,9 @@ This PowerShell script modifies the registry to ensure that administrator accoun
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000200).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000200).ps1 
 #>
+
 # Define the registry path and value
 $registryPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\CredUI"
 $valueName = "EnumerateAdministrators"
