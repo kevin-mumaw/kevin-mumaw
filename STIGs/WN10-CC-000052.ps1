@@ -1,12 +1,13 @@
 ﻿<#
 .SYNOPSIS
 The PowerShell script modifies the registry to ensure that ECC curves with longer key lengths (specifically NistP384 and NistP256) are prioritized for SSL/TLS communications. This is achieved by setting the EccCurves value in the specified registry path, thereby enhancing the security of encryption algorithms used by the system.
+
 .NOTES
     Author: Kevin Mumaw
     LinkedIn: linkedin.com/in/kevin-mumaw-10/
     GitHub: github.com/kevin-mumaw
-    Date Created: 2025-01-05
-    Last Modified: 2025-01-05
+    Date Created: 2025-05-01
+    Last Modified: 2025-05-01
     Version: 1.0
     CVEs: N/A
     Plugin IDs: N/A
@@ -20,7 +21,7 @@ The PowerShell script modifies the registry to ensure that ECC curves with longe
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000052).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000052).ps1 
 
 #>
 # Define the registry path and value
