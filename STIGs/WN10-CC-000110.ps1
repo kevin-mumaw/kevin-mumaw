@@ -6,8 +6,8 @@ This PowerShell script modifies the registry to disable printing over HTTP by se
     Author: Kevin Mumaw
     LinkedIn: linkedin.com/in/kevin-mumaw-10/
     GitHub: github.com/kevin-mumaw
-    Date Created: 2025-01-05
-    Last Modified: 2025-01-05
+    Date Created: 2025-05-01
+    Last Modified: 2025-05-01
     Version: 1.0
     CVEs: N/A
     Plugin IDs: N/A
@@ -21,7 +21,7 @@ This PowerShell script modifies the registry to disable printing over HTTP by se
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000110).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000110).ps1 
 #>
 
 # Define the registry path and value
