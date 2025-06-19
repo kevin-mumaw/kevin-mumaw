@@ -10,7 +10,7 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **Threat Hunting Scenario (Tor Browser Usage) COMING SOON!!**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kevin-mumaw/threat-hunting-scenario-tor)**
 
 <hr/>
 
