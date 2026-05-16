@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Kevin Mumaw</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Kevin Mumaw</a>'s Project Portfolio 🔐📊
 
-I’m deeply passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. Whether it’s vulnerability management or threat detection, these projects give me the opportunity to explore the constantly changing world of cybersecurity. Feel free to take a look at my work and see how I’ve contributed to improving security operations and processes!
+I specialize in cybersecurity and quantitative analysis, building practical solutions for complex technical challenges. From vulnerability management and threat detection to systematic trading strategies, my projects demonstrate proficiency in Python, data analysis, and security operations. Take a look at how I apply technical skills across diverse problem domains.
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -11,6 +11,10 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kevin-mumaw/threat-hunting-scenario-tor)**
+
+## 📊 Quantitative Trading & Automation
+
+- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - Systematic options trading strategy with 68.8% win rate. Features backtesting, multi-timeframe analysis, Greeks calculation, and automated signal generation.
 
 <hr/>
 
@@ -25,8 +29,3 @@ I’m deeply passionate about cybersecurity and thrive on tackling complex chall
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/kevin-mumaw-10
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
