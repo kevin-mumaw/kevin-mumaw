@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Kevin Mumaw</a>'s Project Portfolio 🔐📊
 
-I specialize in cybersecurity and quantitative analysis, building practical solutions for complex technical challenges. From vulnerability management and threat detection to systematic trading strategies, my projects demonstrate proficiency in Python, data analysis, and security operations. Take a look at how I apply technical skills across diverse problem domains.
+I specialize in cybersecurity and quantitative analysis, building practical solutions for complex technical challenges. From vulnerability management and threat detection to systematic trading research and automation, my projects demonstrate proficiency in Python, data analysis, and security operations.
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -14,7 +14,7 @@ I specialize in cybersecurity and quantitative analysis, building practical solu
 
 ## 📊 Quantitative Trading & Automation
 
-- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - Systematic options trading strategy with 68.8% win rate. Features backtesting, multi-timeframe analysis, Greeks calculation, and automated signal generation.
+- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A Google Colab-based options strategy research notebook for backtesting and validating directional options trades using technical analysis, multi-timeframe confirmation, market regime filters, Greeks, and automated signal generation.
 
 <hr/>
 
