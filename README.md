@@ -6,7 +6,6 @@ I specialize in cybersecurity and quantitative analysis, building practical solu
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevin-mumaw/vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH) Currently Building]**
 
 ## 🚨 Threat Hunting and Security Operations
 
