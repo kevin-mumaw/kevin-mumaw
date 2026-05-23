@@ -2,7 +2,10 @@
 
 I specialize in cybersecurity and quantitative analysis, building practical solutions for complex technical challenges. From vulnerability management and threat detection to systematic trading research and automation, my projects demonstrate proficiency in Python, data analysis, and security operations.
 
+## 📊 Quantitative Trading & Automation
 
+- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A Google Colab-based options strategy research notebook for backtesting and validating directional options trades using technical analysis, multi-timeframe confirmation, market regime filters, Greeks, and automated signal generation.
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevin-mumaw/vulnerability-management)**
@@ -11,9 +14,7 @@ I specialize in cybersecurity and quantitative analysis, building practical solu
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kevin-mumaw/threat-hunting-scenario-tor)**
 
-## 📊 Quantitative Trading & Automation
 
-- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A Google Colab-based options strategy research notebook for backtesting and validating directional options trades using technical analysis, multi-timeframe confirmation, market regime filters, Greeks, and automated signal generation.
 
 <hr/>
 
