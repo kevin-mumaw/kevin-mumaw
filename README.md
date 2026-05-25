@@ -4,7 +4,7 @@ I specialize in cybersecurity and quantitative analysis, building practical solu
 
 ## 📊 Quantitative Trading & Automation
 
-- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A Google Colab-based options strategy research notebook for identifying and validating directional options trades. Currently debugging v4.13 with a Phase 1 scanner rebuild featuring a 10-point quality scoring gate, ITM options preference, 1:2 minimum reward/risk enforcement per Jason Brown's PTU framework, and bull call spread sizing for smaller accounts.
+- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A Google Colab-based options strategy research notebook for identifying and validating directional options trades. Currently developing v4.15 with a Phase 1 scanner rebuild featuring a 10-point quality scoring gate, ITM options preference, 1:2 minimum reward/risk enforcement per Jason Brown's PTU framework, and bull call spread sizing for smaller accounts.  First live trade sceduled for 5/26/2026...good luck to me!
 
 - **[CANSLIM Scanner](https://github.com/kevin-mumaw/canslim_scanner)** - A Python-based stock screener implementing William O'Neil's CAN SLIM methodology from *How to Make Money in Stocks*. Screens stocks across all 7 criteria (Current earnings, Annual earnings, New highs, Supply/demand, Leader/laggard, Institutional sponsorship, Market direction) with heatmap visualization, RS rating charts, and CSV export. Built on yfinance, pandas, and numpy. Designed for Google Colab.
 
