@@ -4,7 +4,7 @@ My current focus is quantitative trading and systematic options research — bui
 
 ## 📊 Quantitative Trading & Automation — Active Development
 
-- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A systematic options scanner built on Jason Brown's PTU trading framework. Features a 12-point quality scoring gate (Regime, RSI, Trend, Volume, Weekly, Support, MACD, Bollinger Bands), earnings filtering, ITM options preference, 1:2 minimum reward/risk enforcement, bull call spread sizing, and a built-in trade journal. Currently at v4.15 with Phase 1 complete — first live trade executing 5/27/2026.
+- **[Options Strategy Analyzer](https://github.com/kevin-mumaw/options-strategy-analyzer)** - A systematic options scanner built on Jason Brown's PTU trading framework. Features a 12-point quality scoring gate (Regime, RSI, Trend, Volume, Weekly, Support, MACD, Bollinger Bands), earnings filtering, ITM options preference, 1:2 minimum reward/risk enforcement, bull call spread sizing, and a built-in trade journal. Currently at v4.15 with Phase 1 complete — first live trade executing 5/26/2026.
 
 - **[CAN SLIM Scanner](https://github.com/kevin-mumaw/canslim_scanner)** - A Python-based stock screener implementing William O'Neil's CAN SLIM methodology from *How to Make Money in Stocks*. Screens across all 7 criteria with heatmap visualization, RS rating charts, and CSV export. Planned integration with the Options Strategy Analyzer as a pre-filter for high-conviction trade candidates.
 
