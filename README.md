@@ -8,6 +8,7 @@ My current focus is quantitative trading and systematic options research — bui
 
 - **[CAN SLIM Scanner](https://github.com/kevin-mumaw/canslim_scanner)** - A Python-based stock screener implementing William O'Neil's CAN SLIM methodology from *How to Make Money in Stocks*. Screens across all 7 criteria with heatmap visualization, RS rating charts, and CSV export. Planned integration with the Options Strategy Analyzer as a pre-filter for high-conviction trade candidates.
 
+- **[Cash-Secured Put (CSP) Engine](https://github.com/kevin-mumaw/csp-engine)** - UNDER CONSTRUCTION
 ---
 
 ## 🔐 Prior Work — Cybersecurity (Archived, Not Actively Maintained)
