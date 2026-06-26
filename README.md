@@ -1,9 +1,10 @@
-# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Hej! I'm Kevin 📊
+# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Hey! I'm Kevin 📊
 Based in Occoquan, Virginia — 21-year U.S. Army veteran (Signal Corps, Infantry, Civil Affairs), cybersecurity professional, and systematic investor. Founder of **Second Layer Capital** — a picks-and-shovels investment research brand focused on next-generation defense technology.
 
 ## 🛡️ Second Layer Capital — Active Development
 - **[Hypersonic Defense Screener](https://github.com/kevin-mumaw/hypersonic-defense-screener)** - A rules-based stock screener and portfolio management system targeting the picks-and-shovels supply chain of next-generation defense technology — hypersonic weapons, directed energy, autonomous systems, and advanced propulsion. Features composite scoring (technical, fundamental, thesis), automated intelligence monitoring, discovery scanning, and live portfolio tracking. Deployed as a live dashboard at [secondlayercapital.streamlit.app](https://hypersonic-defense-screener-4tte57rayzdapp2udotwfg8.streamlit.app). Active paper portfolio initiated June 2026.
 - **[Nuclear Infrastructure Screener](https://github.com/kevin-mumaw/nuclear-infrastructure-screener)** - A systematic picks-and-shovels quantitative evaluation framework targeting the nuclear energy ecosystem. Features a multi-bucket Nuclear Quality Score (NQS) engine analyzing backlog momentum, balance sheet runway, and margin trends. Implements specialized evaluation overrides for pre-revenue Small Modular Reactor (SMR) pure-plays.
+- **[Quantum Infrastructure Screener](https://github.com)** - A systematic multi-factor quantitative evaluation matrix targeting the quantum computing supply chain complex. Features form-specific audited (10-K/10-Q) SEC Edgar data extraction, segment bottleneck filtering, and mathematical bounding to insulate scores from outlier skews. Includes an automated Playwright browser intelligence engine cross-referenced with the OpenFIGI API to dynamically track public equities and private venture watchlists from global conferences.
 
 ---
 
