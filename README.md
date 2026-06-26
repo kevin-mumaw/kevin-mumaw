@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Hey! I'm Kevin 📊
+# <a href="https://www.linkedin.com/in/kevin-mumaw-10/">Hej! I'm Kevin 📊
 Based in Occoquan, Virginia — 21-year U.S. Army veteran (Signal Corps, Infantry, Civil Affairs), cybersecurity professional, and systematic investor. Founder of **Second Layer Capital** — a picks-and-shovels investment research brand focused on next-generation defense technology.
 
 ## 🛡️ Second Layer Capital — Active Development
